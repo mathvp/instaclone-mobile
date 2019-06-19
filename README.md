@@ -2,6 +2,8 @@
 This is from a React Native tutorial from Rocketseat OmniStack course
 It depends on a Backend (here [NodeJs Backend](https://github.com/mathvp/instaclone-backend)) to receive data via API (with Axios) and show it to the user.
 Socket.io was used to simulate a real time experience, so, when the Like button is pressed, the counter is incremented at the same time 'live'.
+## Screenshot
+![Instaclone](https://raw.githubusercontent.com/mathvp/instaclone-mobile/master/screengif.gif)
 
 ## How to run
 Before run this project you need to setup your [React Native Environment](https://docs.rocketseat.dev/ambiente-react-native/introducao)
